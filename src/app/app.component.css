@@ -1,0 +1,10 @@
+.app{
+    text-align: center;
+    background-color: rgb(241, 206, 227);
+    padding-top: 50px;
+    padding-bottom: 5px;
+}
+.app header h1{
+    text-decoration: underline;
+
+}
